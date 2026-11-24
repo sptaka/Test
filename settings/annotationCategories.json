@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "気づき・所感",
+    "Short": "所感",
+    "Color": "#D97706",
+    "States": [],
+    "DoneStates": []
+  },
+  {
+    "Name": "原因",
+    "Short": "原因",
+    "Color": "#DC2626",
+    "States": [
+      "推定",
+      "確定"
+    ],
+    "DoneStates": []
+  },
+  {
+    "Name": "試験条件・注記",
+    "Short": "条件",
+    "Color": "#64748B",
+    "States": [],
+    "DoneStates": []
+  },
+  {
+    "Name": "スキャン",
+    "Short": "スキャン",
+    "Color": "#7C3AED",
+    "States": [
+      "未対応",
+      "対応済"
+    ],
+    "DoneStates": [
+      "対応済"
+    ]
+  },
+  {
+    "Name": "B-Action",
+    "Short": "B-Act",
+    "Color": "#2563EB",
+    "States": [
+      "未完了",
+      "完了"
+    ],
+    "DoneStates": [
+      "完了"
+    ]
+  }
+]
